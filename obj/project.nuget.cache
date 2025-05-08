@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X0L/E3IKrQ0YmL46YSuRqITWFmmevdk90w/cY4YssC1BkhSjLWG+ST3O676CksW1NAlL8jaXplEcLed+XkPj8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79025\\source\\repos\\2 курс\\3 семестр\\dex2\\dex2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79025\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
